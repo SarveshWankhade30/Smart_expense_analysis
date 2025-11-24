@@ -1,0 +1,244 @@
+Date,Description,Amount,Category
+01-01-2025,Monthly Apartment Rent Payment,18000,Housing
+02-01-2025,GROCERY MART,1250,Groceries
+03-01-2025,STARBUCKS DOWNTOWN,320,Food & Drink
+04-01-2025,Fuel Station - HP Gas,2850,Transportation
+05-01-2025,Netflix Subscription Fee,499,Subscriptions
+06-01-2025,Uber Ride to Office,650,Transportation
+07-01-2025,Domino's Pizza Delivery,800,Food & Drink
+08-01-2025,AMC Movie Theatre Tickets,800,Entertainment
+09-01-2025,Medical Co-pay - Dr. Smith,500,Health & Fitness
+11-01-2025,Monthly Phone Bill Payment,850,Utilities
+12-01-2025,HBO MAX Subscription,499,Subscriptions
+14-01-2025,Hardware Store - Shelf Brackets,450,Home Maintenance
+15-01-2025,Amazon.com*Electronics,3250,Shopping
+16-01-2025,Gym Membership Fee,1500,Health & Fitness
+18-01-2025,Thai Takeout - Dinner,850,Food & Drink
+19-01-2025,ATM Withdrawal - Cash,1000,Other
+21-01-2025,Electric Bill-Jan,1850,Utilities
+22-01-2025,Amazon Prime Video Rental,199,Entertainment
+24-01-2025,Haircut and Shave,750,Personal Care
+25-01-2025,GROCERY MART 8901,1550,Groceries
+27-01-2025,Ola Outstation Trip,1200,Transportation
+28-01-2025,New Wallet - Leathershop,950,Shopping
+30-01-2025,Bank Fee - Maintenance,50,Financial
+01-02-2025,Rent ACH Transfer,18000,Housing
+02-02-2025,WHOLE FOODS MARKET,980,Groceries
+03-02-2025,Cafe Coffee Day,420,Food & Drink
+05-02-2025,Public Transport Card Reload,500,Transportation
+07-02-2025,Cineplex Movie Tickets,800,Entertainment
+08-02-2025,Disney+ Hotstar Annual Fee,1499,Subscriptions
+10-02-2025,Vodafone Mobile Bill,799,Utilities
+12-02-2025,Birthday Gift Purchase,2500,Other
+14-02-2025,ZARA Clothing Purchase,4500,Shopping
+16-02-2025,Physiotherapy Session,1000,Health & Fitness
+18-02-2025,Car Wash Service,300,Transportation
+20-02-2025,Water Bill - Feb,650,Utilities
+22-02-2025,Railway Ticket Booking - GOA,1450,Travel
+23-02-2025,Groceries - Milk & Eggs,350,Groceries
+25-02-2025,Pizza Hut Dine-in,1500,Food & Drink
+27-02-2025,Subscription - Wall Street Journal,150,Subscriptions
+28-02-2025,Pet Food and Treats,1200,Pets
+01-03-2025,Monthly Rent Check,18000,Housing
+03-03-2025,D-Mart Supermarket,1150,Groceries
+04-03-2025,Local Tea Stall,120,Food & Drink
+06-03-2025,Internet Service Provider Bill,999,Utilities
+08-03-2025,Local Mechanic - Oil Change,3500,Transportation
+09-03-2025,DOMINOS PIZZA 9005,720,Food & Drink
+11-03-2025,H&M Apparel,2100,Shopping
+13-03-2025,Bus Pass Reload,800,Transportation
+15-03-2025,Book Purchase - Fiction,600,Education
+16-03-2025,Spotify Premium Annual,1188,Subscriptions
+18-03-2025,Dinner at Italian Restaurant,3800,Food & Drink
+20-03-2025,Hair Salon X - Haircut,850,Personal Care
+22-03-2025,Amazon Kindle E-book,299,Entertainment
+24-03-2025,Weekend Trip Hotel Booking,5500,Travel
+26-03-2025,Amazon.com*HomeGoods,1500,Shopping
+27-03-2025,Gift for Birthday,1500,Other
+29-03-2025,Credit Card Interest Charge,800,Financial
+31-03-2025,Repair & Maintenance Fee,2500,Home Maintenance
+01-04-2025,Monthly Rent ACH,18000,Housing
+03-04-2025,Starbucks Morning Coffee,280,Food & Drink
+04-04-2025,Whole Foods - Weekly Shop,1400,Groceries
+06-04-2025,Olas Micro Ride,150,Transportation
+07-04-2025,Taxi Fare from Airport,680,Transportation
+09-04-2025,Concert Ticket Purchase,4500,Entertainment
+11-04-2025,Amazon Marketplace Seller 398,950,Shopping
+13-04-2025,Water Bill Payment,550,Utilities
+15-04-2025,Plumbing Repair Service,1500,Home Maintenance
+17-04-2025,Yoga Class Fee,900,Health & Fitness
+19-04-2025,Museum Entry Fee,400,Entertainment
+21-04-2025,Indian Takeout,780,Food & Drink
+23-04-2025,Japanese Restaurant - Lunch,2100,Food & Drink
+25-04-2025,Petrol Station Refill,3100,Transportation
+26-04-2025,Student Loan Payment,4200,Financial
+28-04-2025,New Running Shoes,5800,Health & Fitness
+30-04-2025,Groceries-Daily needs,620,Groceries
+01-05-2025,Rent Payment,18000,Housing
+02-05-2025,GROCERY MART 1122,1350,Groceries
+04-05-2025,KFC Lunch,550,Food & Drink
+07-05-2025,Vodafone Mobile Recharge,799,Utilities
+09-05-2025,Ola Share Ride,210,Transportation
+11-05-2025,Subscription - YouTube Premium,129,Subscriptions
+13-05-2025,E-Learning Platform Fee,3500,Education
+15-05-2025,The Body Shop Cosmetics,1800,Personal Care
+18-05-2025,Amazon.com*Books,650,Shopping
+20-05-2025,Health Checkup Fee,1800,Health & Fitness
+22-05-2025,Netflix Monthly Fee,499,Subscriptions
+24-05-2025,Groceries-Fruits,450,Groceries
+26-05-2025,Weekend Getaway Flight,8500,Travel
+28-05-2025,Dinner at Pind Balluchi,2200,Food & Drink
+29-05-2025,Mobile Data Recharge,499,Utilities
+31-05-2025,Credit Card Annual Fee,999,Financial
+01-06-2025,Monthly Rent ACH,18000,Housing
+03-06-2025,WHOLE FOODS 5566,1800,Groceries
+05-06-2025,UberEats - Lunch Delivery,950,Food & Drink
+07-06-2025,Bus Ticket to City Center,150,Transportation
+09-06-2025,Amazon Prime Membership,1499,Subscriptions
+11-06-2025,Clothing Store - New Jacket,6200,Shopping
+13-06-2025,Electric Bill - June,2050,Utilities
+15-06-2025,Health Insurance Premium,2500,Health & Fitness
+17-06-2025,Pet Vet Visit,1500,Pets
+20-06-2025,Road Trip Gas Fill-up,3500,Transportation
+23-06-2025,Concert Tickets,3000,Entertainment
+25-06-2025,Dinner at Fine Dining,4500,Food & Drink
+27-06-2025,Water Bill - June,650,Utilities
+28-06-2025,Amazon.com*Office Supplies,850,Shopping
+30-06-2025,Savings Account Deposit,5000,Transfer
+01-07-2025,Rent Check Cashed,18000,Housing
+03-07-2025,Grocery Mart 102 - Weekly,1300,Groceries
+05-07-2025,Coffee Shop Downtown,380,Food & Drink
+07-07-2025,Metro Card Refill,500,Transportation
+09-07-2025,Amazon Music Subscription,99,Subscriptions
+11-07-2025,Shoe Store Purchase,2500,Shopping
+13-07-2025,Pizza Delivery Fee,700,Food & Drink
+15-07-2025,Gas Bill July,1100,Utilities
+17-07-2025,Dental Check-up,1200,Health & Fitness
+20-07-2025,Ola Ride - Morning,350,Transportation
+22-07-2025,Online Game Purchase,800,Entertainment
+25-07-2025,GROCERY MART 7789,1450,Groceries
+28-07-2025,Movie Night Snacks,250,Food & Drink
+30-07-2025,Internet Bill July,999,Utilities
+31-07-2025,Car Insurance Payment,4500,Financial
+01-08-2025,Rent E-Transfer,18000,Housing
+03-08-2025,Whole Foods - Weekend Shop,1550,Groceries
+05-08-2025,Local Bakery,400,Food & Drink
+07-08-2025,Car Repair Service,7500,Transportation
+09-08-2025,Mobile Phone Upgrade,12000,Shopping
+11-08-2025,Insurance Premium - Home,4500,Financial
+13-08-2025,Streaming Service - Hulu,899,Subscriptions
+15-08-2025,Therapy Session Fee,1500,Health & Fitness
+17-08-2025,Uber Black Ride,800,Transportation
+19-08-2025,Bookstore - Academic Text,1800,Education
+21-08-2025,Water Delivery Service,450,Utilities
+23-08-2025,Sushi Restaurant Dinner,3200,Food & Drink
+25-08-2025,Amazon.com*Clothing,2100,Shopping
+27-08-2025,Weekend Getaway Hotel,6500,Travel
+29-08-2025,Dog Food Bulk Order,2800,Pets
+31-08-2025,Electric Bill - Aug,1950,Utilities
+02-01-2025,Cash Deposit (Income),5000,Income
+08-01-2025,Consulting Fee Payment,15000,Income
+20-01-2025,Refund from Store XYZ,350,Income
+04-02-2025,Salary Payment,75000,Income
+15-02-2025,Freelance Project Payment,8000,Income
+07-03-2025,ATM Deposit,2000,Income
+17-03-2025,Sale of Old Laptop,5000,Income
+05-04-2025,Salary Transfer,75000,Income
+18-04-2025,Refund for Damaged Goods,1500,Income
+06-05-2025,Bonus Payment,10000,Income
+19-05-2025,Interest Earned on Savings,150,Income
+04-06-2025,Salary Deposit,75000,Income
+12-06-2025,Investment Return,3000,Income
+02-07-2025,ATM Deposit,1000,Income
+16-07-2025,Freelance Payment,6500,Income
+04-08-2025,Salary ACH,75000,Income
+18-08-2025,Gift from Parent,5000,Income
+02-01-2025,Supermarket Run,750,Groceries
+04-01-2025,Coffee Break,250,Food & Drink
+10-01-2025,Local Bus Ticket,50,Transportation
+13-01-2025,Internet Service Monthly,999,Utilities
+17-01-2025,New T-Shirt - Online,700,Shopping
+23-01-2025,Gym Locker Fee,100,Health & Fitness
+26-01-2025,Dinner at Pub,1800,Food & Drink
+29-01-2025,Movie Streaming App,99,Subscriptions
+06-02-2025,Vegetable Market,450,Groceries
+11-02-2025,Lunch at Work,350,Food & Drink
+13-02-2025,Taxi to Doctor,450,Transportation
+17-02-2025,Electricity Bill Feb,1500,Utilities
+21-02-2025,Amazon.com*Shoes,2500,Shopping
+24-02-2025,Pharmacy Purchase,400,Health & Fitness
+26-02-2025,Weekend Bar Visit,2200,Food & Drink
+02-03-2025,Milk and Bread,200,Groceries
+05-03-2025,Local Eatery Lunch,400,Food & Drink
+07-03-2025,Fuel Refill,2100,Transportation
+10-03-2025,Water Delivery,400,Utilities
+12-03-2025,Book from Bookstore,550,Education
+14-03-2025,Concert Tickets,3500,Entertainment
+17-03-2025,New Phone Case,600,Shopping
+19-03-2025,Dental Floss,150,Personal Care
+23-03-2025,Dinner with Friends,2800,Food & Drink
+25-03-2025,GROCERY MART 1122,1050,Groceries
+28-03-2025,Bus Pass Top-up,300,Transportation
+02-04-2025,Morning Coffee,300,Food & Drink
+05-04-2025,New Novel,700,Education
+08-04-2025,Water Heater Repair,4000,Home Maintenance
+10-04-2025,Mobile Recharge,499,Utilities
+12-04-2025,Therapy Session,1000,Health & Fitness
+14-04-2025,Online Subscription Service,199,Subscriptions
+16-04-2025,Lunch Delivery,750,Food & Drink
+20-04-2025,Bus Fare,50,Transportation
+22-04-2025,Pet Food,800,Pets
+24-04-2025,GROCERY MART 3344,1100,Groceries
+27-04-2025,Amazon.com*Tools,1200,Shopping
+29-04-2025,Transfer to Brokerage,5000,Financial
+03-05-2025,Coffee at Airport,450,Food & Drink
+06-05-2025,Uber to Airport,600,Transportation
+08-05-2025,Flight Ticket Home,3500,Travel
+10-05-2025,Water Bill May,650,Utilities
+12-05-2025,Gym Dues,1500,Health & Fitness
+14-05-2025,Movie Night,700,Entertainment
+17-05-2025,GROCERY MART 5566,1300,Groceries
+19-05-2025,Dinner Out,3100,Food & Drink
+21-05-2025,Bus Ticket,100,Transportation
+23-05-2025,New Watch,4800,Shopping
+25-05-2025,Credit Card Interest,150,Financial
+27-05-2025,Birthday Gift for Friend,1000,Other
+30-05-2025,Internet Bill May,999,Utilities
+02-06-2025,WHOLE FOODS 1001,1050,Groceries
+06-06-2025,Starbucks Lunch,600,Food & Drink
+08-06-2025,Taxi Ride,350,Transportation
+10-06-2025,Electrician Call Out,2000,Home Maintenance
+12-06-2025,Amazon.com*Gardening,400,Shopping
+14-06-2025,Spotify Premium,129,Subscriptions
+16-06-2025,Pharmacy,550,Health & Fitness
+18-06-2025,Bus Pass Reload,500,Transportation
+21-06-2025,GROCERY MART 7788,1400,Groceries
+24-06-2025,Lunch with Coworkers,900,Food & Drink
+26-06-2025,Gym Class Drop-in,300,Health & Fitness
+29-06-2025,Transfer to Wife,2000,Transfer
+04-07-2025,Local Cafe,350,Food & Drink
+06-07-2025,Uber Commute,450,Transportation
+08-07-2025,Water Bill July,650,Utilities
+10-07-2025,Online Course Payment,4000,Education
+12-07-2025,Amazon.com*Toys,700,Shopping
+14-07-2025,Netflix Subscription,499,Subscriptions
+16-07-2025,Massage,1500,Health & Fitness
+18-07-2025,Bus Ticket,50,Transportation
+21-07-2025,GROCERY MART 9900,1150,Groceries
+24-07-2025,Dinner at Hotel,4500,Food & Drink
+26-07-2025,Amazon.com*Camera,15000,Shopping
+29-07-2025,Mobile Bill July,850,Utilities
+31-07-2025,Movie Tickets,600,Entertainment
+02-08-2025,WHOLE FOODS 3030,1350,Groceries
+06-08-2025,Tea Stall,100,Food & Drink
+08-08-2025,Train Ticket,800,Transportation
+10-08-2025,Subscription - Spotify,129,Subscriptions
+12-08-2025,New Shoes,3500,Shopping
+14-08-2025,Electric Bill Aug,1800,Utilities
+16-08-2025,Hospital Visit,2000,Health & Fitness
+20-08-2025,Public Transit Pass,500,Transportation
+22-08-2025,GROCERY MART 1111,950,Groceries
+24-08-2025,Dinner & Drinks,3200,Food & Drink
+26-08-2025,Amazon.com*Games,500,Entertainment
+28-08-2025,Transfer to Investment Fund,8000,Financial
+30-08-2025,Internet Bill Aug,999,Utilities
